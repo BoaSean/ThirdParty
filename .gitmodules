@@ -1,0 +1,66 @@
+[submodule "source/SDL"]
+	path = source/SDL
+	url = https://github.com/libsdl-org/SDL.git
+[submodule "source/freetype"]
+	path = source/freetype
+	url = https://github.com/freetype/freetype.git
+[submodule "source/lvgl"]
+	path = source/lvgl
+	url = https://github.com/lvgl/lvgl.git
+[submodule "source/lv_drivers"]
+	path = source/lv_drivers
+	url = https://github.com/lvgl/lv_drivers.git
+[submodule "source/rlottie"]
+	path = source/rlottie
+	url = https://github.com/Samsung/rlottie.git
+[submodule "source/ArduinoJson"]
+	path = source/ArduinoJson
+	url = https://github.com/bblanchon/ArduinoJson.git
+[submodule "source/CMSIS/CMSIS_5.4.0"]
+	path = source/CMSIS/CMSIS_5.4.0
+	url = https://github.com/ARM-software/CMSIS_5.git
+[submodule "source/stm32f1xx-hal-driver"]
+	path = source/stm32f1xx-hal-driver
+	url = https://github.com/STMicroelectronics/stm32f1xx-hal-driver.git
+[submodule "source/cmsis-device-f1"]
+	path = source/cmsis-device-f1
+	url = https://github.com/STMicroelectronics/cmsis-device-f1.git
+[submodule "source/stm32f4xx-hal-driver"]
+	path = source/stm32f4xx-hal-driver
+	url = https://github.com/STMicroelectronics/stm32f4xx-hal-driver.git
+[submodule "source/cmsis-device-f4"]
+	path = source/cmsis-device-f4
+	url = https://github.com/STMicroelectronics/cmsis-device-f4.git
+[submodule "source/CMSIS/CMSIS_5.6.0"]
+	path = source/CMSIS/CMSIS_5.6.0
+	url = https://github.com/ARM-software/CMSIS_5.git
+[submodule "source/stm32h7xx-hal-driver"]
+	path = source/stm32h7xx-hal-driver
+	url = https://github.com/STMicroelectronics/stm32h7xx-hal-driver.git
+[submodule "source/cmsis-device-h7"]
+	path = source/cmsis-device-h7
+	url = https://github.com/STMicroelectronics/cmsis-device-h7.git
+[submodule "packs/STM32H7xx_DFP"]
+	path = packs/STM32H7xx_DFP
+	url = https://github.com/Open-CMSIS-Pack/STM32H7xx_DFP.git
+[submodule "packs/STM32F4xx_DFP"]
+	path = packs/STM32F4xx_DFP
+	url = https://github.com/Open-CMSIS-Pack/STM32F4xx_DFP.git
+[submodule "packs/STM32F1xx_DFP"]
+	path = packs/STM32F1xx_DFP
+	url = https://github.com/BoaSean/STM32F1xx_DFP.git
+[submodule "source/rtt-kernel-v4.1.0"]
+	path = source/rtt-kernel-v4.1.0
+	url = https://github.com/BoaSean/rtt-kernel.git
+[submodule "source/rtt-sdk-v4.1.0"]
+	path = source/rtt-sdk-v4.1.0
+	url = https://github.com/BoaSean/rtt-sdk.git
+[submodule "source/rtt-kernel"]
+	path = source/rtt-kernel
+	url = https://github.com/BoaSean/rtt-kernel.git
+[submodule "source/rtt-sdk"]
+	path = source/rtt-sdk
+	url = https://github.com/BoaSean/rtt-sdk.git
+[submodule "source/sdk-bsp-stm32h750-realthread-artpi"]
+	path = source/sdk-bsp-stm32h750-realthread-artpi
+	url = https://github.com/RT-Thread-Studio/sdk-bsp-stm32h750-realthread-artpi.git
