@@ -1,5 +1,6 @@
 
 ThirdParty use
+
     环境变量中配置
 
         cmake .. -DCMAKE_PREFIX_PATH=D:/studio/workspace/c_cpp_workspace2/ThirdParty/install/Release -G "MinGW Makefiles"
@@ -26,6 +27,7 @@ ThirdParty use
         endif()
 
 SDL2
+
     #git clone https://github.com/libsdl-org/SDL.git
     git clone --branch release-2.28.5 https://github.com/libsdl-org/SDL.git
 
