@@ -90,37 +90,37 @@ def main():
 
     """ windows """
 
-    build_platform =  X86_64_MINGW32
-    lib_name =  "SDL"
-    lib_type =  LIB_SHARED
+    # build_platform =  X86_64_MINGW32
+    # lib_name =  "SDL"
+    # lib_type =  LIB_SHARED
 
-    get_command(build_os,build_platform,lib_name,lib_type)
+    # get_command(build_os,build_platform,lib_name,lib_type)
 
-    build_platform =  X86_64_MINGW32
-    lib_name =  "freetype"
-    lib_type =  LIB_SHARED
-
-    get_command(build_os,build_platform,lib_name,lib_type)
-
-    build_platform =  X86_64_MINGW32
-    lib_name =  "rlottie"
-    lib_type =  LIB_STATIC
-
-    get_command(build_os,build_platform,lib_name,lib_type)
-
-    """ linux """
-
-    # build_platform =  X86_64_LINUX_GNU
+    # build_platform =  X86_64_MINGW32
     # lib_name =  "freetype"
     # lib_type =  LIB_SHARED
 
     # get_command(build_os,build_platform,lib_name,lib_type)
 
-    # build_platform =  X86_64_LINUX_GNU
+    # build_platform =  X86_64_MINGW32
     # lib_name =  "rlottie"
     # lib_type =  LIB_STATIC
 
     # get_command(build_os,build_platform,lib_name,lib_type)
+
+    """ linux """
+
+    build_platform =  X86_64_LINUX_GNU
+    lib_name =  "freetype"
+    lib_type =  LIB_SHARED
+
+    get_command(build_os,build_platform,lib_name,lib_type)
+
+    build_platform =  X86_64_LINUX_GNU
+    lib_name =  "rlottie"
+    lib_type =  LIB_STATIC
+
+    get_command(build_os,build_platform,lib_name,lib_type)
 
 if __name__ == "__main__":
     main()

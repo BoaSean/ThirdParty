@@ -68,71 +68,71 @@ freetype
         build       yes
 
             -- Install configuration: "Release"
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/ft2build.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftmm.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/config
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/config/ftstdlib.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/config/ftmodule.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/config/integer-types.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/config/mac-support.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/config/ftheader.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/config/public-macros.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftmodapi.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftbitmap.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftsynth.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftlcdfil.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftgasp.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/fttrigon.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftrender.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftstroke.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftadvanc.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftbbox.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftlzw.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/fterrdef.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftotval.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftincrem.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftlogging.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftmac.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftcolor.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftsystem.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/tttables.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftgxval.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/fttypes.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/t1tables.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftoutln.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ttnameid.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftpfr.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftchapters.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/fterrors.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftglyph.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftdriver.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftparams.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftimage.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftbzip2.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftwinfnt.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftsizes.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftlist.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftmoderr.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftcache.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftfntfmt.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftbdf.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftgzip.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/otsvg.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/freetype.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftsnames.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftcid.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/tttags.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/config/ftconfig.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/config/ftoption.h
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/lib/pkgconfig/freetype2.pc
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/lib/libfreetype.so.6.20.0
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/lib/libfreetype.so.6
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/lib/libfreetype.so
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/lib/cmake/freetype/freetype-config.cmake
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/lib/cmake/freetype/freetype-config-release.cmake
-            -- Installing: /home/sean/studio/c_cpp_workspace2/ThirdParty/install/x86_64-linux-gnu-release/lib/cmake/freetype/freetype-config-version.cmake
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/ft2build.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftstroke.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftmac.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftsizes.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftbbox.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/fttypes.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftcolor.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/tttables.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftglyph.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftlist.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftsynth.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftbzip2.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftlogging.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftpfr.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftlzw.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftbdf.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftbitmap.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/fttrigon.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftdriver.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/tttags.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ttnameid.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftotval.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/fterrors.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftcache.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/t1tables.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftoutln.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftwinfnt.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/config
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/config/mac-support.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/config/ftstdlib.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/config/ftheader.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/config/ftmodule.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/config/public-macros.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/config/integer-types.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftchapters.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftparams.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/fterrdef.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftlcdfil.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftmm.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/freetype.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftmodapi.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftgxval.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftfntfmt.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftgzip.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftrender.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftadvanc.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftmoderr.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftimage.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftincrem.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftsnames.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftsystem.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftgasp.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/otsvg.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/ftcid.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/config/ftconfig.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/include/freetype2/freetype/config/ftoption.h
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/lib/pkgconfig/freetype2.pc
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/lib/libfreetype.so.6.20.0
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/lib/libfreetype.so.6
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/lib/libfreetype.so
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/lib/cmake/freetype/freetype-config.cmake
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/lib/cmake/freetype/freetype-config-release.cmake
+            -- Installing: /home/sean/studio/c_cpp_workspace/ThirdParty/install/x86_64-linux-gnu-release/lib/cmake/freetype/freetype-config-version.cmake
 
             ldd main
                 linux-vdso.so.1 (0x00007ffe1c9c1000)
@@ -254,6 +254,12 @@ rt-thread
         CPPPATH = list(Env.get('CPPPATH', [''])) + group.get('LOCAL_CPPPATH', [''])
         CPPDEFINES = list(Env.get('CPPDEFINES', [''])) + group.get('LOCAL_CPPDEFINES', [''])
 
+    手动clone
+        git clone https://github.com/RT-Thread/packages.git source/rtt-packages/packages
+        git reset --hard c4345a90
+        git clean -fdx
+
 art-pi
 
     git clone --branch 1.3.0 https://github.com/RT-Thread-Studio/sdk-bsp-stm32h750-realthread-artpi.git
+

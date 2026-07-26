@@ -1,0 +1,7 @@
+
+build/x86_64-linux-gnu-release/freetype/
+build/x86_64-linux-gnu-release/rlottie/
+install/x86_64-linux-gnu-release/include/
+install/x86_64-linux-gnu-release/lib/
+
+source/rtt-packages/packages/
